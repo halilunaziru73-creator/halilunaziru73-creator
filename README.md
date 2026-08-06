@@ -7,23 +7,114 @@ architectures for agronomic and environmental applications — combining GIS,
 remote sensing, and machine learning with rigorously validated, reproducible
 research code.
 
-#### Featured work
+📫 halilunaziru73@gmail.com
 
-- **[Geometry-Agnostic Contrastive Learning (GACL)](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)**
-  — a hypergraph-transformer architecture for cross-pathology, cross-condition
-  contrastive transfer learning in agronomic imaging.
-- **[Digital Twin for Gully Biocontrol](https://github.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp)**
-  — a Bayesian-grounded digital twin evaluating Morning Glory as a gully-erosion
-  biocontrol measure, combining real field data with deep-learning models.
-- **[Hybrid CNN-BiLSTM-Attention for Sediment Transport](https://github.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System)**
-  — a from-scratch NumPy deep-learning framework for sediment transport
-  prediction in an agricultural gully system.
+---
 
-#### Other projects
+## Featured Work
 
-- [Real-Time RGB Proxy Vegetation Indexing (N_GACL)](https://github.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery) — desktop pipeline for UAV/handheld crop imagery analysis
-- [GIS-Based Delineation for Livestock Slurry Application](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application) — MCDA + regression kriging + deep learning suitability surfaces
-- [Operationalizing GIS and ML across Cropping Systems](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems) — maize fertility zoning, vineyard pest monitoring, and grape ripening prediction
-- [Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis) — GIS, remote sensing, and classification course package
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📫 Reach me at halilunaziru73@gmail.com
+**[Multitask Singularity Regression Kriging (MSRK)](https://github.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction)**
+
+GeoAI framework combining a multiscale local singularity index, multitask
+Random Forest trend modelling, and residual kriging for precision-agriculture
+mapping of soil NPK, crop stress, and yield.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/main/figures/Figure_21_SRK_3D_prediction_surface.png" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+**[Digital Twin for Gully Biocontrol](https://github.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp)**
+
+Bayesian-grounded digital twin evaluating Morning Glory (*Ipomoea* spp.) as
+a gully-erosion biocontrol measure, validated against real field-sensor data.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/main/04_Figures/Figure_14_dashboard_3D_visualization.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Geometry-Agnostic Contrastive Learning (GACL)](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)**
+
+A hypergraph-transformer architecture for cross-pathology, cross-condition
+contrastive transfer learning in agronomic imaging.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/figures/Figure_01_GACL_architecture.png" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+**[GIS-Based Livestock Slurry Suitability](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)**
+
+MCDA + regression kriging + deep-learning suitability surfaces for
+livestock slurry application siting — case study in Tudela, Navarre, Spain.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/main/figures/fig10_model_comparison_maps.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Operationalizing GIS & ML Across Cropping Systems](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems)**
+
+Maize fertility zoning, vineyard pest monitoring, and grape ripening
+prediction across three linked Portuguese field practicals.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_21_grape_spatial_interpolation_30aug.jpg" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+**[Integrated Dairy Processing Decision-Support Model](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)**
+
+LOOCV model comparison, bootstrap CIs, LP production planning, and Monte
+Carlo risk simulation for dairy product-mix decisions under variability.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/risk_distribution.png" width="100%">
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Hybrid CNN-BiLSTM-Attention for Sediment Transport](https://github.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System)**
+
+A from-scratch NumPy deep-learning framework for sediment-transport
+prediction in an agricultural gully system.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/main/figures/Figure_02_network_architecture.png" width="100%">
+
+</td>
+<td width="50%" valign="top">
+
+**[Real-Time RGB Vegetation Indexing (UAV/Handheld)](https://github.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery)**
+
+Real-time RGB proxy vegetation indexing and texture analysis pipeline for
+UAV and handheld crop imagery, with an integrated GIS workbench.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery/main/figures/Figure_09_gis_workbench_session3_gacl_panel.png" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Other Projects
+
+- **[Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)** — vector/raster GIS, Sentinel-1/2 remote sensing, and classification course package (Jupyter notebooks + Google Earth Engine)
+
+---
+
+## Tools & Topics
+
+`Python` · `GIS` · `Remote Sensing` · `Deep Learning` · `Computer Vision` ·
+`Geostatistics` · `Google Earth Engine` · `Sentinel-1/2` · `Precision Agriculture` ·
+`Bayesian Methods` · `Decision Support Systems`
