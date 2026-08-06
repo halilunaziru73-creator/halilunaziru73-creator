@@ -25,6 +25,13 @@ mapping of soil NPK, crop stress, and yield.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/main/figures/Figure_21_SRK_3D_prediction_surface.png" width="100%">
 
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/msrk_workflow.png" width="100%">
+
+</details>
+
 </td>
 <td width="50%" valign="top">
 
@@ -34,6 +41,13 @@ Bayesian-grounded digital twin evaluating Morning Glory (*Ipomoea* spp.) as
 a gully-erosion biocontrol measure, validated against real field-sensor data.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/main/04_Figures/Figure_14_dashboard_3D_visualization.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/digital_twin_workflow.png" width="100%">
+
+</details>
 
 </td>
 </tr>
@@ -47,6 +61,13 @@ contrastive transfer learning in agronomic imaging.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/figures/Figure_01_GACL_architecture.png" width="100%">
 
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/gacl_workflow.png" width="100%">
+
+</details>
+
 </td>
 <td width="50%" valign="top">
 
@@ -56,6 +77,13 @@ MCDA + regression kriging + deep-learning suitability surfaces for
 livestock slurry application siting — case study in Tudela, Navarre, Spain.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/main/figures/fig10_model_comparison_maps.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/slurry_workflow.png" width="100%">
+
+</details>
 
 </td>
 </tr>
@@ -69,6 +97,13 @@ prediction across three linked Portuguese field practicals.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_21_grape_spatial_interpolation_30aug.jpg" width="100%">
 
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/operationalizing_workflow.png" width="100%">
+
+</details>
+
 </td>
 <td width="50%" valign="top">
 
@@ -78,6 +113,13 @@ LOOCV model comparison, bootstrap CIs, LP production planning, and Monte
 Carlo risk simulation for dairy product-mix decisions under variability.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/risk_distribution.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/dairy_dss_workflow.png" width="100%">
+
+</details>
 
 </td>
 </tr>
@@ -91,6 +133,13 @@ prediction in an agricultural gully system.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/main/figures/Figure_02_network_architecture.png" width="100%">
 
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/hybrid_cnn_workflow.png" width="100%">
+
+</details>
+
 </td>
 <td width="50%" valign="top">
 
@@ -101,6 +150,13 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery/main/figures/Figure_09_gis_workbench_session3_gacl_panel.png" width="100%">
 
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/realtime_rgb_workflow.png" width="100%">
+
+</details>
+
 </td>
 </tr>
 </table>
@@ -110,6 +166,13 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
 ## Other Projects
 
 - **[Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)** — vector/raster GIS, Sentinel-1/2 remote sensing, and classification course package (Jupyter notebooks + Google Earth Engine)
+
+  <details>
+  <summary>🔀 Methodology / Workflow</summary>
+
+  <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/geospatial_workflow.png" width="60%">
+
+  </details>
 
 ---
 
