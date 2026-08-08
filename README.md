@@ -11,18 +11,6 @@ research code.
 
 ---
 
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=halilunaziru73-creator&show_icons=true&theme=default&hide_title=true&count_private=false" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halilunaziru73-creator&layout=compact&hide=jupyter%20notebook&theme=default" height="165" alt="Top languages"/>
-</p>
-
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/halilunaziru73-creator&label=Public%20Repos&query=$.public_repos&color=blue)
-![Followers](https://img.shields.io/github/followers/halilunaziru73-creator?label=Followers&style=flat)
-
----
-
 ## Featured Work
 
 <table>
