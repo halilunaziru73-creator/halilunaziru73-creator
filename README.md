@@ -32,6 +32,8 @@ mapping of soil NPK, crop stress, and yield.
 
 </details>
 
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -48,6 +50,8 @@ a gully-erosion biocontrol measure, validated against real field-sensor data.
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/digital_twin_workflow.png" width="100%">
 
 </details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/)
 
 </td>
 </tr>
@@ -68,6 +72,8 @@ contrastive transfer learning in agronomic imaging.
 
 </details>
 
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geometry-Agnostic-Contrastive-Learning-GACL/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -84,6 +90,8 @@ livestock slurry application siting — case study in Tudela, Navarre, Spain.
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/slurry_workflow.png" width="100%">
 
 </details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/)
 
 </td>
 </tr>
@@ -104,6 +112,8 @@ prediction across three linked Portuguese field practicals.
 
 </details>
 
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -120,6 +130,8 @@ Carlo risk simulation for dairy product-mix decisions under variability.
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/dairy_dss_workflow.png" width="100%">
 
 </details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/)
 
 </td>
 </tr>
@@ -140,6 +152,8 @@ prediction in an agricultural gully system.
 
 </details>
 
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -157,6 +171,8 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
 
 </details>
 
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery/)
+
 </td>
 </tr>
 </table>
@@ -173,6 +189,8 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
   <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/geospatial_workflow.png" width="60%">
 
   </details>
+
+  [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geospatial-data-analysis/)
 
 ---
 
