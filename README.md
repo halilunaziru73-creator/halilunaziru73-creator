@@ -175,6 +175,29 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[STADOS: Spectral-Temporal Adaptive Dark Object Subtraction](https://github.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction)**
+
+A five-stage radiometric harmonization framework that generalizes classical
+dark-object subtraction into a multi-object, reliability-weighted, iteratively
+self-consistent correction for multi-temporal Sentinel-2 NDVI monitoring,
+applied to corn parcels near Coimbra, Portugal.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/figures/Figure_13.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/workflow_sketch.png" width="60%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/)
+
+</td>
+</tr>
 </table>
 
 ---
