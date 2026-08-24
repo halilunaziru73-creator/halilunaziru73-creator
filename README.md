@@ -198,6 +198,21 @@ applied to corn parcels near Coimbra, Portugal.
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[Zaria Crop ET and Irrigation DSS](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)**
+
+A modular Python pipeline with a Tkinter desktop GUI for reference/crop
+evapotranspiration, soil-water balance, irrigation scheduling, and full
+farm-report generation for five crops grown around Zaria, Nigeria.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/workflow_sketch.png" width="100%">
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Zaria-Crop-ET-and-Irrigation-DSS/)
+
+</td>
+</tr>
 </table>
 
 ---
