@@ -200,8 +200,9 @@ mapping of soil NPK, crop stress, and yield.
 
 **[GIS-Based Livestock Slurry Suitability](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)**
 
-MCDA + regression kriging + deep-learning suitability surfaces for
-livestock slurry application siting, case study in Tudela, Navarre, Spain.
+A multi-criteria GIS overlay combined with regression kriging and
+deep-learning suitability surfaces for livestock slurry application siting,
+case study in Tudela, Navarre, Spain.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/main/figures/fig10_model_comparison_maps.png" width="100%">
 
@@ -281,8 +282,9 @@ contrastive transfer learning in agronomic imaging.
 
 **[Integrated Dairy Processing Decision-Support Model](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)**
 
-LOOCV model comparison, bootstrap CIs, LP production planning, and Monte
-Carlo risk simulation for dairy product-mix decisions under variability.
+Compares several prediction models, then uses linear programming and repeated
+random-scenario simulation to recommend which dairy product to make each day
+under uncertain milk quality and market prices.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/risk_distribution.png" width="100%">
 
