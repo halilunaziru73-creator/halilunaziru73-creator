@@ -13,7 +13,7 @@ research code.
 
 ## Featured Work
 
-Grouped by research domain. See [Complexity & Novelty](#complexity--novelty) below for how these compare.
+Grouped by research domain.
 
 ### Remote Sensing & Earth Observation
 
@@ -298,29 +298,6 @@ Carlo risk simulation for dairy product-mix decisions under variability.
 </td>
 </tr>
 </table>
-
----
-
-## Complexity & Novelty
-
-A rough self-assessment of where each project sits, technical depth of the
-methods involved versus how original the actual contribution is (not just
-the topic).
-
-| Repo | Complexity | Novelty |
-|---|---|---|
-| GACL | Very high, four unified deep-learning architectures | Very high, genuinely new architecture |
-| MSRK | Very high, multifractal theory + multitask kriging | High, novel method combination |
-| Digital Twin | Very high, coupled physics + Bayesian + ML | High, novel domain integration |
-| STADOS | High, EM-style coordinate descent | Very high, extends classical DOS |
-| NaCROP | High, full ET/water-balance/growth pipeline | Low-medium, integration novelty |
-| Zaria DSS | High, 10-equation ET/irrigation pipeline | Low-medium, integration novelty |
-| Sediment Transport | High, hybrid deep learning + physics | Medium-high, novel hybrid + physics tie-in |
-| N_GACL | Medium-high, 14-module software pipeline | Medium, Verifiable Reporting Framework |
-| GIS-Slurry | Medium, kriging vs deep-learning comparison | Medium, rigorous empirical comparison |
-| Dairy DSS | Medium, multiple integrated standard methods | Medium, honest self-critique |
-| Operationalizing GIS/ML | Medium, classical methods across 3 systems | Low-medium, synthesis value |
-| Geospatial Course | Low-medium, established GIS techniques | Low, teaching material by design |
 
 ---
 
