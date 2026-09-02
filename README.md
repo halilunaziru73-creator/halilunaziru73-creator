@@ -3,7 +3,7 @@
 **AgEngineering 🌾 | Computer Vision 👁️ | Spatial Data & GIS 🌍**
 
 I build deep-learning frameworks, digital twins, and self-supervised
-architectures for agronomic and environmental applications — combining GIS,
+architectures for agronomic and environmental applications, combining GIS,
 remote sensing, and machine learning with rigorously validated, reproducible
 research code.
 
