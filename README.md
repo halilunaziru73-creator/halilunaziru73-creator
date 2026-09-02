@@ -80,7 +80,7 @@ contrastive transfer learning in agronomic imaging.
 **[GIS-Based Livestock Slurry Suitability](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)**
 
 MCDA + regression kriging + deep-learning suitability surfaces for
-livestock slurry application siting — case study in Tudela, Navarre, Spain.
+livestock slurry application siting, case study in Tudela, Navarre, Spain.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/main/figures/fig10_model_comparison_maps.png" width="100%">
 
@@ -236,16 +236,16 @@ Irrigation DSS pipeline above.
 
 ## Other Projects
 
-- **[Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)** — vector/raster GIS, Sentinel-1/2 remote sensing, and classification course package (Jupyter notebooks + Google Earth Engine)
+- **[Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)**, vector/raster GIS, Sentinel-1/2 remote sensing, and classification course package (Jupyter notebooks + Google Earth Engine)
 
-  <details>
-  <summary>🔀 Methodology / Workflow</summary>
+ <details>
+ <summary>🔀 Methodology / Workflow</summary>
 
-  <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/geospatial_workflow.png" width="60%">
+ <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/geospatial_workflow.png" width="60%">
 
-  </details>
+ </details>
 
-  [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geospatial-data-analysis/)
+ [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geospatial-data-analysis/)
 
 ---
 
