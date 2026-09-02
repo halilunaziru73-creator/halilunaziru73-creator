@@ -213,6 +213,23 @@ farm-report generation for five crops grown around Zaria, Nigeria.
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[NaCROP](https://github.com/halilunaziru73-creator/NaCROP)**
+
+A modular Python pipeline with a Tkinter desktop GUI for reference/crop
+evapotranspiration, soil-water balance, irrigation scheduling, and a 4-step
+crop-growth simulation (canopy, transpiration, biomass, yield) for five crops
+grown around Zaria, Nigeria. Renamed and extended from the Zaria Crop ET and
+Irrigation DSS pipeline above.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/NaCROP/main/workflow_sketch.png" width="100%">
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/NaCROP/)
+
+</td>
+</tr>
 </table>
 
 ---
