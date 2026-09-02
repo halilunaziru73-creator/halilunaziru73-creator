@@ -13,68 +13,31 @@ research code.
 
 ## Featured Work
 
-Grouped by research domain.
+Grouped by research domain, ordered by overall importance within each group.
 
-### Remote Sensing & Earth Observation
+### Computer Vision & Deep Learning Architecture
 
-*Correcting, extracting, and teaching how to work with satellite and drone imagery, the data layer beneath everything else.*
+*A foundational architecture, not tied to one crop or one physical process, meant to generalize across many downstream agronomic imaging tasks.*
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**[STADOS: Spectral-Temporal Adaptive Dark Object Subtraction](https://github.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction)**
-
-A five-stage radiometric harmonization framework that generalizes classical
-dark-object subtraction into a multi-object, reliability-weighted, iteratively
-self-consistent correction for multi-temporal Sentinel-2 NDVI monitoring,
-applied to corn parcels near Coimbra, Portugal.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/figures/Figure_13.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/workflow_sketch.png" width="60%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/)
-
-</td>
-<td width="50%" valign="top">
-
-**[Real-Time RGB Vegetation Indexing (UAV/Handheld)](https://github.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery)**
-
-Real-time RGB proxy vegetation indexing and texture analysis pipeline for
-UAV and handheld crop imagery, with an integrated GIS workbench.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery/main/figures/Figure_09_gis_workbench_session3_gacl_panel.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/realtime_rgb_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery/)
-
-</td>
-</tr>
-<tr>
 <td width="100%" valign="top" colspan="2">
 
-**[Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)**, vector/raster GIS, Sentinel-1/2 remote sensing, and classification course package (Jupyter notebooks + Google Earth Engine)
+**[Geometry-Agnostic Contrastive Learning (GACL)](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)**
 
- <details>
- <summary>🔀 Methodology / Workflow</summary>
+A hypergraph-transformer architecture for cross-pathology, cross-condition
+contrastive transfer learning in agronomic imaging.
 
- <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/geospatial_workflow.png" width="60%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/figures/Figure_01_GACL_architecture.png" width="100%">
 
- </details>
+<details>
+<summary>🔀 Methodology / Workflow</summary>
 
- [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geospatial-data-analysis/)
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/gacl_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geometry-Agnostic-Contrastive-Learning-GACL/)
 
 </td>
 </tr>
@@ -131,38 +94,68 @@ prediction in an agricultural gully system.
 
 ---
 
-### Agricultural Water Management & Irrigation Engineering
+### Remote Sensing & Earth Observation
 
-*How much water a crop needs and when to apply it, an applied branch of hydrology focused on farm decision-making.*
+*Correcting, extracting, and teaching how to work with satellite and drone imagery, the data layer beneath everything else.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Zaria Crop ET and Irrigation DSS](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)**
+**[STADOS: Spectral-Temporal Adaptive Dark Object Subtraction](https://github.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction)**
 
-A modular Python pipeline with a Tkinter desktop GUI for reference/crop
-evapotranspiration, soil-water balance, irrigation scheduling, and full
-farm-report generation for five crops grown around Zaria, Nigeria.
+A five-stage radiometric harmonization framework that generalizes classical
+dark-object subtraction into a multi-object, reliability-weighted, iteratively
+self-consistent correction for multi-temporal Sentinel-2 NDVI monitoring,
+applied to corn parcels near Coimbra, Portugal.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/workflow_sketch.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/figures/Figure_13.png" width="100%">
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Zaria-Crop-ET-and-Irrigation-DSS/)
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/workflow_sketch.png" width="60%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/)
 
 </td>
 <td width="50%" valign="top">
 
-**[NaCROP](https://github.com/halilunaziru73-creator/NaCROP)**
+**[Real-Time RGB Vegetation Indexing (UAV/Handheld)](https://github.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery)**
 
-A modular Python pipeline with a Tkinter desktop GUI for reference/crop
-evapotranspiration, soil-water balance, irrigation scheduling, and a 4-step
-crop-growth simulation (canopy, transpiration, biomass, yield) for five crops
-grown around Zaria, Nigeria. Renamed and extended from the Zaria Crop ET and
-Irrigation DSS pipeline above.
+Real-time RGB proxy vegetation indexing and texture analysis pipeline for
+UAV and handheld crop imagery, with an integrated GIS workbench.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/NaCROP/main/workflow_sketch.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery/main/figures/Figure_09_gis_workbench_session3_gacl_panel.png" width="100%">
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/NaCROP/)
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/realtime_rgb_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery/)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)**, vector/raster GIS, Sentinel-1/2 remote sensing, and classification course package (Jupyter notebooks + Google Earth Engine)
+
+ <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geospatial-data-analysis/main/docs/figures/03_Optical_Data_Sentinel2_NDVI.png" width="100%">
+
+<details>
+ <summary>🔀 Methodology / Workflow</summary>
+
+ <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/geospatial_workflow.png" width="60%">
+
+ </details>
+
+ [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geospatial-data-analysis/)
 
 </td>
 </tr>
@@ -242,29 +235,38 @@ prediction across three linked Portuguese field practicals.
 
 ---
 
-### Computer Vision & Deep Learning Architecture
+### Agricultural Water Management & Irrigation Engineering
 
-*A foundational architecture, not tied to one crop or one physical process, meant to generalize across many downstream agronomic imaging tasks.*
+*How much water a crop needs and when to apply it, an applied branch of hydrology focused on farm decision-making.*
 
 <table>
 <tr>
-<td width="100%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
-**[Geometry-Agnostic Contrastive Learning (GACL)](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)**
+**[NaCROP](https://github.com/halilunaziru73-creator/NaCROP)**
 
-A hypergraph-transformer architecture for cross-pathology, cross-condition
-contrastive transfer learning in agronomic imaging.
+A modular Python pipeline with a Tkinter desktop GUI for reference/crop
+evapotranspiration, soil-water balance, irrigation scheduling, and a 4-step
+crop-growth simulation (canopy, transpiration, biomass, yield) for five crops
+grown around Zaria, Nigeria. Renamed and extended from the Zaria Crop ET and
+Irrigation DSS pipeline above.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/figures/Figure_01_GACL_architecture.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/NaCROP/main/workflow_sketch.png" width="100%">
 
-<details>
-<summary>🔀 Methodology / Workflow</summary>
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/NaCROP/)
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/gacl_workflow.png" width="100%">
+</td>
+<td width="50%" valign="top">
 
-</details>
+**[Zaria Crop ET and Irrigation DSS](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)**
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geometry-Agnostic-Contrastive-Learning-GACL/)
+A modular Python pipeline with a Tkinter desktop GUI for reference/crop
+evapotranspiration, soil-water balance, irrigation scheduling, and full
+farm-report generation for five crops grown around Zaria, Nigeria.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/workflow_sketch.png" width="100%">
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Zaria-Crop-ET-and-Irrigation-DSS/)
 
 </td>
 </tr>
