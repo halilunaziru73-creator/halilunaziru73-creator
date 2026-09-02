@@ -13,146 +13,33 @@ research code.
 
 ## Featured Work
 
+Grouped by research domain. See [Complexity & Novelty](#complexity--novelty) below for how these compare.
+
+### Remote Sensing & Earth Observation
+
+*Correcting, extracting, and teaching how to work with satellite and drone imagery, the data layer beneath everything else.*
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Multitask Singularity Regression Kriging (MSRK)](https://github.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction)**
+**[STADOS: Spectral-Temporal Adaptive Dark Object Subtraction](https://github.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction)**
 
-GeoAI framework combining a multiscale local singularity index, multitask
-Random Forest trend modelling, and residual kriging for precision-agriculture
-mapping of soil NPK, crop stress, and yield.
+A five-stage radiometric harmonization framework that generalizes classical
+dark-object subtraction into a multi-object, reliability-weighted, iteratively
+self-consistent correction for multi-temporal Sentinel-2 NDVI monitoring,
+applied to corn parcels near Coimbra, Portugal.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/main/figures/Figure_21_SRK_3D_prediction_surface.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/msrk_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/)
-
-</td>
-<td width="50%" valign="top">
-
-**[Digital Twin for Gully Biocontrol](https://github.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp)**
-
-Bayesian-grounded digital twin evaluating Morning Glory (*Ipomoea* spp.) as
-a gully-erosion biocontrol measure, validated against real field-sensor data.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/main/04_Figures/Figure_14_dashboard_3D_visualization.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/figures/Figure_13.png" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/digital_twin_workflow.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/workflow_sketch.png" width="60%">
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Geometry-Agnostic Contrastive Learning (GACL)](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)**
-
-A hypergraph-transformer architecture for cross-pathology, cross-condition
-contrastive transfer learning in agronomic imaging.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/figures/Figure_01_GACL_architecture.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/gacl_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geometry-Agnostic-Contrastive-Learning-GACL/)
-
-</td>
-<td width="50%" valign="top">
-
-**[GIS-Based Livestock Slurry Suitability](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)**
-
-MCDA + regression kriging + deep-learning suitability surfaces for
-livestock slurry application siting, case study in Tudela, Navarre, Spain.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/main/figures/fig10_model_comparison_maps.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/slurry_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Operationalizing GIS & ML Across Cropping Systems](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems)**
-
-Maize fertility zoning, vineyard pest monitoring, and grape ripening
-prediction across three linked Portuguese field practicals.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_21_grape_spatial_interpolation_30aug.jpg" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/operationalizing_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/)
-
-</td>
-<td width="50%" valign="top">
-
-**[Integrated Dairy Processing Decision-Support Model](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)**
-
-LOOCV model comparison, bootstrap CIs, LP production planning, and Monte
-Carlo risk simulation for dairy product-mix decisions under variability.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/risk_distribution.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/dairy_dss_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Hybrid CNN-BiLSTM-Attention for Sediment Transport](https://github.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System)**
-
-A from-scratch NumPy deep-learning framework for sediment-transport
-prediction in an agricultural gully system.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/main/figures/Figure_02_network_architecture.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/hybrid_cnn_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/)
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/)
 
 </td>
 <td width="50%" valign="top">
@@ -178,28 +65,79 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
 <tr>
 <td width="100%" valign="top" colspan="2">
 
-**[STADOS: Spectral-Temporal Adaptive Dark Object Subtraction](https://github.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction)**
+**[Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)**, vector/raster GIS, Sentinel-1/2 remote sensing, and classification course package (Jupyter notebooks + Google Earth Engine)
 
-A five-stage radiometric harmonization framework that generalizes classical
-dark-object subtraction into a multi-object, reliability-weighted, iteratively
-self-consistent correction for multi-temporal Sentinel-2 NDVI monitoring,
-applied to corn parcels near Coimbra, Portugal.
+ <details>
+ <summary>🔀 Methodology / Workflow</summary>
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/figures/Figure_13.png" width="100%">
+ <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/geospatial_workflow.png" width="60%">
+
+ </details>
+
+ [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geospatial-data-analysis/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Hydrology & Erosion Engineering
+
+*Modelling how water moves and erodes land, the physical processes of gully formation and sediment transport.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Digital Twin for Gully Biocontrol](https://github.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp)**
+
+Bayesian-grounded digital twin evaluating Morning Glory (*Ipomoea* spp.) as
+a gully-erosion biocontrol measure, validated against real field-sensor data.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/main/04_Figures/Figure_14_dashboard_3D_visualization.png" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/main/workflow_sketch.png" width="60%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/digital_twin_workflow.png" width="100%">
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/)
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/)
+
+</td>
+<td width="50%" valign="top">
+
+**[Hybrid CNN-BiLSTM-Attention for Sediment Transport](https://github.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System)**
+
+A from-scratch NumPy deep-learning framework for sediment-transport
+prediction in an agricultural gully system.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/main/figures/Figure_02_network_architecture.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/hybrid_cnn_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/)
 
 </td>
 </tr>
+</table>
+
+---
+
+### Agricultural Water Management & Irrigation Engineering
+
+*How much water a crop needs and when to apply it, an applied branch of hydrology focused on farm decision-making.*
+
+<table>
 <tr>
-<td width="100%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
 **[Zaria Crop ET and Irrigation DSS](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)**
 
@@ -212,9 +150,7 @@ farm-report generation for five crops grown around Zaria, Nigeria.
 [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Zaria-Crop-ET-and-Irrigation-DSS/)
 
 </td>
-</tr>
-<tr>
-<td width="100%" valign="top" colspan="2">
+<td width="50%" valign="top">
 
 **[NaCROP](https://github.com/halilunaziru73-creator/NaCROP)**
 
@@ -234,18 +170,157 @@ Irrigation DSS pipeline above.
 
 ---
 
-## Other Projects
+### Precision Agriculture & Geostatistics
 
-- **[Geospatial Data Analysis](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)**, vector/raster GIS, Sentinel-1/2 remote sensing, and classification course package (Jupyter notebooks + Google Earth Engine)
+*Turning sparse field samples into reliable, spatially continuous maps for real farm decisions.*
 
- <details>
- <summary>🔀 Methodology / Workflow</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
- <img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/geospatial_workflow.png" width="60%">
+**[Multitask Singularity Regression Kriging (MSRK)](https://github.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction)**
 
- </details>
+GeoAI framework combining a multiscale local singularity index, multitask
+Random Forest trend modelling, and residual kriging for precision-agriculture
+mapping of soil NPK, crop stress, and yield.
 
- [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geospatial-data-analysis/)
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/main/figures/Figure_21_SRK_3D_prediction_surface.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/msrk_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/)
+
+</td>
+<td width="50%" valign="top">
+
+**[GIS-Based Livestock Slurry Suitability](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)**
+
+MCDA + regression kriging + deep-learning suitability surfaces for
+livestock slurry application siting, case study in Tudela, Navarre, Spain.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/main/figures/fig10_model_comparison_maps.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/slurry_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/)
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[Operationalizing GIS & ML Across Cropping Systems](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems)**
+
+Maize fertility zoning, vineyard pest monitoring, and grape ripening
+prediction across three linked Portuguese field practicals.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_21_grape_spatial_interpolation_30aug.jpg" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/operationalizing_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Computer Vision & Deep Learning Architecture
+
+*A foundational architecture, not tied to one crop or one physical process, meant to generalize across many downstream agronomic imaging tasks.*
+
+<table>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[Geometry-Agnostic Contrastive Learning (GACL)](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)**
+
+A hypergraph-transformer architecture for cross-pathology, cross-condition
+contrastive transfer learning in agronomic imaging.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/figures/Figure_01_GACL_architecture.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/gacl_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geometry-Agnostic-Contrastive-Learning-GACL/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Agribusiness Decision Science
+
+*Business decisions and operations research rather than a physical or biological process.*
+
+<table>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[Integrated Dairy Processing Decision-Support Model](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)**
+
+LOOCV model comparison, bootstrap CIs, LP production planning, and Monte
+Carlo risk simulation for dairy product-mix decisions under variability.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/risk_distribution.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/dairy_dss_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Complexity & Novelty
+
+A rough self-assessment of where each project sits, technical depth of the
+methods involved versus how original the actual contribution is (not just
+the topic).
+
+| Repo | Complexity | Novelty |
+|---|---|---|
+| GACL | Very high, four unified deep-learning architectures | Very high, genuinely new architecture |
+| MSRK | Very high, multifractal theory + multitask kriging | High, novel method combination |
+| Digital Twin | Very high, coupled physics + Bayesian + ML | High, novel domain integration |
+| STADOS | High, EM-style coordinate descent | Very high, extends classical DOS |
+| NaCROP | High, full ET/water-balance/growth pipeline | Low-medium, integration novelty |
+| Zaria DSS | High, 10-equation ET/irrigation pipeline | Low-medium, integration novelty |
+| Sediment Transport | High, hybrid deep learning + physics | Medium-high, novel hybrid + physics tie-in |
+| N_GACL | Medium-high, 14-module software pipeline | Medium, Verifiable Reporting Framework |
+| GIS-Slurry | Medium, kriging vs deep-learning comparison | Medium, rigorous empirical comparison |
+| Dairy DSS | Medium, multiple integrated standard methods | Medium, honest self-critique |
+| Operationalizing GIS/ML | Medium, classical methods across 3 systems | Low-medium, synthesis value |
+| Geospatial Course | Low-medium, established GIS techniques | Low, teaching material by design |
 
 ---
 
