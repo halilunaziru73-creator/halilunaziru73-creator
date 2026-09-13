@@ -231,6 +231,28 @@ prediction across three linked Portuguese field practicals.
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[GIS Monitoring of Grape Moth](https://github.com/halilunaziru73-creator/GIS-Monitoring-of-Grape-Moth-Vineyard-Pest)**
+
+Terrain characterisation, mating-disruption costing, and delta-trap
+monitoring for Lobesia botrana at a 42.97-hectare vineyard estate in the
+Douro Demarcated Region, Portugal.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-Monitoring-of-Grape-Moth-Vineyard-Pest/main/figures/08_delta_trap_locations.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-Monitoring-of-Grape-Moth-Vineyard-Pest/main/workflow_sketch.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-Monitoring-of-Grape-Moth-Vineyard-Pest/)
+
+</td>
+</tr>
 </table>
 
 ---
