@@ -253,6 +253,28 @@ Douro Demarcated Region, Portugal.
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[GIS Monitoring of Vineyard Ripening (Brix)](https://github.com/halilunaziru73-creator/GIS-Monitoring-of-Vineyard-Ripening-Brix)**
+
+NDVI and logarithmic regression harvest-date forecasting (R-squared =
+0.9784) for grape ripening at a 6-hectare UTAD vineyard, Quinta de Nossa
+Senhora de Lurdes, Vila Real, Portugal.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-Monitoring-of-Vineyard-Ripening-Brix/main/figures/09_brix_regression_analysis.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-Monitoring-of-Vineyard-Ripening-Brix/main/workflow_sketch.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-Monitoring-of-Vineyard-Ripening-Brix/)
+
+</td>
+</tr>
 </table>
 
 ---
