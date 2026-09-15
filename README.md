@@ -262,7 +262,7 @@ NDVI and logarithmic regression harvest-date forecasting (R-squared =
 0.9784) for grape ripening at a 6-hectare UTAD vineyard, Quinta de Nossa
 Senhora de Lurdes, Vila Real, Portugal.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-Monitoring-of-Vineyard-Ripening-Brix/main/figures/09_brix_regression_analysis.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-Monitoring-of-Vineyard-Ripening-Brix/main/figures/14_brix_value_map_30jul.png" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
