@@ -218,7 +218,7 @@ case study in Tudela, Navarre, Spain.
 Maize fertility zoning, vineyard pest monitoring, and grape ripening
 prediction across three linked Portuguese field practicals.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_21_grape_spatial_interpolation_30aug.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_16_maize_variable_rate_prescription.jpg" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
