@@ -332,7 +332,7 @@ Compares several prediction models, then uses linear programming and repeated
 random-scenario simulation to recommend which dairy product to make each day
 under uncertain milk quality and market prices.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/risk_distribution.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/quality_vs_profit.png" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
