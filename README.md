@@ -28,7 +28,7 @@ Grouped by research domain, ordered by overall importance within each group.
 A hypergraph-transformer architecture for cross-pathology, cross-condition
 contrastive transfer learning in agronomic imaging.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/figures/Figure_01_GACL_architecture.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/workflow_sketch.png" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
