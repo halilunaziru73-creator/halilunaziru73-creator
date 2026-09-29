@@ -314,6 +314,33 @@ farm-report generation for five crops grown around Zaria, Nigeria.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[Coupled Water Fluxes and Pore-Scale Dynamics under Joint Precision Irrigation and Evaporation-Control Mulching](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops)**
+
+10,190 Daisy soil-plant-atmosphere simulations (10 soils, 17 experiments) mapping
+non-linear soil-atmosphere feedback loops between precision irrigation triggers,
+evaporation-control mulching, drainage, yield, and nitrate leaching. Three novel
+contributions: a soil-independent irrigation trigger law (root-zone depletion
+collapses suction-based triggers from 10 soils onto single curves), a closed
+water-balance account of where evaporation saved by mulching actually goes, and a
+regime map of when the dominant water-loss pathway switches from evaporation to
+drainage.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/main/workflow_sketch.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/coupled_water_fluxes_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/)
+
+</td>
+</tr>
 </table>
 
 ---
