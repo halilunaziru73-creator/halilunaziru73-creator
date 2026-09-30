@@ -330,13 +330,6 @@ drainage.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/main/workflow_sketch.png" width="100%">
 
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/coupled_water_fluxes_workflow.png" width="100%">
-
-</details>
-
 [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/)
 
 </td>
