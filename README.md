@@ -32,9 +32,12 @@ water-balance account of where evaporation saved by mulching actually goes, and 
 regime map of when the dominant water-loss pathway switches from evaporation to
 drainage.
 
-<a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Results/04_Interactive_Charts/05_Sensor_widget_1980_2000.html"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/irrigation_trigger_widget.png" width="100%" alt="Tensiometer irrigation-trigger widget: suction at 20 cm, 1980 to 2000, rainfed versus irrigated at a -300 cm trigger"></a>
+<a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Results/04_Interactive_Charts/10_SWAFL_Fused_Explorer.html"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/trigger_law_widget.png" width="100%" alt="SWAFL explorer, Irrigation rule scene: the soil-independent root-zone depletion trigger law with a draggable trigger gauge and per-soil trigger suctions"></a>
 
-*Tensiometer irrigation-trigger widget (suction at 20 cm, 1980 to 2000, rainfed versus a -300 cm trigger): click to open it and drag the range slider.*
+*Irrigation trigger law widget (SWAFL explorer, scene N1): drag the trigger on the gauge and every soil shows its own suction trigger for the same root-zone depletion. Click the picture to open it live.*
+
+**Download:** [SWAFL.exe for Windows](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/releases/latest/download/SWAFL.exe) (no installation) · [SWAFL_Desktop.zip (source)](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/raw/main/Software/SWAFL_Desktop.zip) · [all releases](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/releases)  
+**Manual:** [Download the SWAFL manual (PDF)](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/raw/main/Software/SWAFL_Desktop/docs/SWAFL_Manual.pdf)
 
 [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/)
 
@@ -51,7 +54,9 @@ crop-growth simulation (canopy, transpiration, biomass, yield) for five crops
 grown around Zaria, Nigeria. Renamed and extended from the Zaria Crop ET and
 Irrigation DSS pipeline above.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/NaCROP/main/workflow_sketch.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/NaCROP/main/sample_report/figure_05_field_stage_simulation.png" width="100%">
+
+*Field-stage simulation with per-stage water accounting.*
 
 [Interactive walkthrough →](https://halilunaziru73-creator.github.io/NaCROP/)
 
@@ -64,7 +69,9 @@ A modular Python pipeline with a Tkinter desktop GUI for reference/crop
 evapotranspiration, soil-water balance, irrigation scheduling, and full
 farm-report generation for five crops grown around Zaria, Nigeria.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/workflow_sketch.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/outputs/figures/soil_profile_Sample_Farm_Owner.png" width="100%">
+
+*Soil profile used for the water-balance simulation.*
 
 [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Zaria-Crop-ET-and-Irrigation-DSS/)
 
@@ -186,7 +193,7 @@ prediction across three linked Portuguese field practicals.
 A hypergraph-transformer architecture for cross-pathology, cross-condition
 contrastive transfer learning in agronomic imaging.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/workflow_sketch.png?v=3" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/gacl_architecture.png?v=1" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
