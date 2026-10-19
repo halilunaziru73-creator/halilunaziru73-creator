@@ -39,7 +39,7 @@ drainage.
 **Download:** [SWAFL.exe for Windows](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/releases/latest/download/SWAFL.exe) (no installation) · [SWAFL_Desktop.zip (source)](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/raw/main/Software/SWAFL_Desktop.zip) · [all releases](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/releases)  
 **Manual:** [Download the SWAFL manual (PDF)](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/raw/main/Software/SWAFL_Desktop/docs/SWAFL_Manual.pdf)
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/)
+[View repository →](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops)
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ Irrigation DSS pipeline above.
 
 *Field-stage simulation with per-stage water accounting.*
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/NaCROP/)
+[View repository →](https://github.com/halilunaziru73-creator/NaCROP)
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ farm-report generation for five crops grown around Zaria, Nigeria.
 
 *Soil profile used for the water-balance simulation.*
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Zaria-Crop-ET-and-Irrigation-DSS/)
+[View repository →](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)
 
 </td>
 </tr>
@@ -105,7 +105,7 @@ applied to corn parcels near Coimbra, Portugal.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction/)
+[View repository →](https://github.com/halilunaziru73-creator/STADOS-Spectral-Temporal-Adaptive-Dark-Object-Subtraction)
 
 </td>
 <td width="50%" valign="top">
@@ -124,7 +124,7 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery/)
+[View repository →](https://github.com/halilunaziru73-creator/Real-Time-RGB-Proxy-Vegetation-Indexing-and-Texture-Analysis-for-UAV-and-Handheld-Crop-Imagery)
 
 </td>
 </tr>
@@ -142,7 +142,7 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
 
  </details>
 
- [Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geospatial-data-analysis/)
+ [View repository →](https://github.com/halilunaziru73-creator/Geospatial-data-analysis)
 
 </td>
 </tr>
@@ -172,7 +172,7 @@ prediction across three linked Portuguese field practicals.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/)
+[View repository →](https://github.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems)
 
 </td>
 </tr>
@@ -202,7 +202,7 @@ contrastive transfer learning in agronomic imaging.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geometry-Agnostic-Contrastive-Learning-GACL/)
+[View repository →](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)
 
 </td>
 </tr>
@@ -233,7 +233,7 @@ Douro Demarcated Region, Portugal.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-Monitoring-of-Grape-Moth-Vineyard-Pest/)
+[View repository →](https://github.com/halilunaziru73-creator/GIS-Monitoring-of-Grape-Moth-Vineyard-Pest)
 
 </td>
 </tr>
@@ -255,7 +255,7 @@ Senhora de Lurdes, Vila Real, Portugal.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-Monitoring-of-Vineyard-Ripening-Brix/)
+[View repository →](https://github.com/halilunaziru73-creator/GIS-Monitoring-of-Vineyard-Ripening-Brix)
 
 </td>
 </tr>
@@ -286,7 +286,7 @@ mapping of soil NPK, crop stress, and yield.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/)
+[View repository →](https://github.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction)
 
 </td>
 <td width="50%" valign="top">
@@ -306,7 +306,7 @@ case study in Tudela, Navarre, Spain.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/)
+[View repository →](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)
 
 </td>
 </tr>
@@ -336,7 +336,7 @@ a gully-erosion biocontrol measure, validated against real field-sensor data.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/)
+[View repository →](https://github.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp)
 
 </td>
 <td width="50%" valign="top">
@@ -355,7 +355,7 @@ prediction in an agricultural gully system.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/)
+[View repository →](https://github.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System)
 
 </td>
 </tr>
@@ -386,7 +386,7 @@ under uncertain milk quality and market prices.
 
 </details>
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/)
+[View repository →](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)
 
 </td>
 </tr>
