@@ -13,80 +13,60 @@ research code.
 
 ## Featured Work
 
-Grouped by research domain, ordered by overall importance within each group.
+### Agricultural Water Management & Irrigation Engineering
 
-### Computer Vision & Deep Learning Architecture
-
-*A foundational architecture, not tied to one crop or one physical process, meant to generalize across many downstream agronomic imaging tasks.*
+*How much water a crop needs and when to apply it, an applied branch of hydrology focused on farm decision-making.*
 
 <table>
 <tr>
-<td width="100%" valign="top" colspan="2">
+<td colspan="2" valign="top">
 
-**[Geometry-Agnostic Contrastive Learning (GACL)](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)**
+**[Coupled Water Fluxes and Pore-Scale Dynamics under Joint Precision Irrigation and Evaporation-Control Mulching](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops)**
 
-A hypergraph-transformer architecture for cross-pathology, cross-condition
-contrastive transfer learning in agronomic imaging.
+10,190 Daisy soil-plant-atmosphere simulations (10 soils, 17 experiments) mapping
+non-linear soil-atmosphere feedback loops between precision irrigation triggers,
+evaporation-control mulching, drainage, yield, and nitrate leaching. Three novel
+contributions: a soil-independent irrigation trigger law (root-zone depletion
+collapses suction-based triggers from 10 soils onto single curves), a closed
+water-balance account of where evaporation saved by mulching actually goes, and a
+regime map of when the dominant water-loss pathway switches from evaporation to
+drainage.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/workflow_sketch.png?v=3" width="100%">
+<a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Results/04_Interactive_Charts/05_Sensor_widget_1980_2000.html"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/irrigation_trigger_widget.png" width="100%" alt="Tensiometer irrigation-trigger widget: suction at 20 cm, 1980 to 2000, rainfed versus irrigated at a -300 cm trigger"></a>
 
-<details>
-<summary>🔀 Methodology / Workflow</summary>
+*Tensiometer irrigation-trigger widget (suction at 20 cm, 1980 to 2000, rainfed versus a -300 cm trigger): click to open it and drag the range slider.*
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/gacl_workflow.png?v=3" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geometry-Agnostic-Contrastive-Learning-GACL/)
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/)
 
 </td>
 </tr>
-</table>
-
----
-
-### Hydrology & Erosion Engineering
-
-*Modelling how water moves and erodes land, the physical processes of gully formation and sediment transport.*
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
-**[Digital Twin for Gully Biocontrol](https://github.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp)**
+**[NaCROP](https://github.com/halilunaziru73-creator/NaCROP)**
 
-Bayesian-grounded digital twin evaluating Morning Glory (*Ipomoea* spp.) as
-a gully-erosion biocontrol measure, validated against real field-sensor data.
+A modular Python pipeline with a Tkinter desktop GUI for reference/crop
+evapotranspiration, soil-water balance, irrigation scheduling, and a 4-step
+crop-growth simulation (canopy, transpiration, biomass, yield) for five crops
+grown around Zaria, Nigeria. Renamed and extended from the Zaria Crop ET and
+Irrigation DSS pipeline above.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/main/04_Figures/Figure_14_dashboard_3D_visualization.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/NaCROP/main/workflow_sketch.png" width="100%">
 
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/digital_twin_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/)
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/NaCROP/)
 
 </td>
 <td width="50%" valign="top">
 
-**[Hybrid CNN-BiLSTM-Attention for Sediment Transport](https://github.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System)**
+**[Zaria Crop ET and Irrigation DSS](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)**
 
-A from-scratch NumPy deep-learning framework for sediment-transport
-prediction in an agricultural gully system.
+A modular Python pipeline with a Tkinter desktop GUI for reference/crop
+evapotranspiration, soil-water balance, irrigation scheduling, and full
+farm-report generation for five crops grown around Zaria, Nigeria.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/main/figures/Figure_02_network_architecture.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/workflow_sketch.png" width="100%">
 
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/hybrid_cnn_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/)
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Zaria-Crop-ET-and-Irrigation-DSS/)
 
 </td>
 </tr>
@@ -163,53 +143,11 @@ UAV and handheld crop imagery, with an integrated GIS workbench.
 
 ---
 
-### Precision Agriculture & Geostatistics
+### Precision Agriculture & Geostatistics: Cropping Systems
 
-*Turning sparse field samples into reliable, spatially continuous maps for real farm decisions.*
+*Taking GIS and machine learning from maize fertility zoning through to farm prescriptions.*
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[Multitask Singularity Regression Kriging (MSRK)](https://github.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction)**
-
-GeoAI framework combining a multiscale local singularity index, multitask
-Random Forest trend modelling, and residual kriging for precision-agriculture
-mapping of soil NPK, crop stress, and yield.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/main/figures/Figure_21_SRK_3D_prediction_surface.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/msrk_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/)
-
-</td>
-<td width="50%" valign="top">
-
-**[GIS-Based Livestock Slurry Suitability](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)**
-
-A multi-criteria GIS overlay combined with regression kriging and
-deep-learning suitability surfaces for livestock slurry application siting,
-case study in Tudela, Navarre, Spain.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/main/figures/fig10_model_comparison_maps.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/slurry_workflow.png" width="100%">
-
-</details>
-
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/)
-
-</td>
-</tr>
 <tr>
 <td width="100%" valign="top" colspan="2">
 
@@ -231,6 +169,45 @@ prediction across three linked Portuguese field practicals.
 
 </td>
 </tr>
+</table>
+
+---
+
+### Computer Vision & Deep Learning Architecture
+
+*A foundational architecture, not tied to one crop or one physical process, meant to generalize across many downstream agronomic imaging tasks.*
+
+<table>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+**[Geometry-Agnostic Contrastive Learning (GACL)](https://github.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL)**
+
+A hypergraph-transformer architecture for cross-pathology, cross-condition
+contrastive transfer learning in agronomic imaging.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Geometry-Agnostic-Contrastive-Learning-GACL/main/workflow_sketch.png?v=3" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/gacl_workflow.png?v=3" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Geometry-Agnostic-Contrastive-Learning-GACL/)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Precision Agriculture & Geostatistics: Vineyard Monitoring
+
+*Pest monitoring and ripening forecasts for vineyard management decisions.*
+
+<table>
 <tr>
 <td width="100%" valign="top" colspan="2">
 
@@ -279,58 +256,99 @@ Senhora de Lurdes, Vila Real, Portugal.
 
 ---
 
-### Agricultural Water Management & Irrigation Engineering
+### Precision Agriculture & Geostatistics
 
-*How much water a crop needs and when to apply it, an applied branch of hydrology focused on farm decision-making.*
+*Turning sparse field samples into reliable, spatially continuous maps for real farm decisions.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[NaCROP](https://github.com/halilunaziru73-creator/NaCROP)**
+**[Multitask Singularity Regression Kriging (MSRK)](https://github.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction)**
 
-A modular Python pipeline with a Tkinter desktop GUI for reference/crop
-evapotranspiration, soil-water balance, irrigation scheduling, and a 4-step
-crop-growth simulation (canopy, transpiration, biomass, yield) for five crops
-grown around Zaria, Nigeria. Renamed and extended from the Zaria Crop ET and
-Irrigation DSS pipeline above.
+GeoAI framework combining a multiscale local singularity index, multitask
+Random Forest trend modelling, and residual kriging for precision-agriculture
+mapping of soil NPK, crop stress, and yield.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/NaCROP/main/workflow_sketch.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/main/figures/Figure_21_SRK_3D_prediction_surface.png" width="100%">
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/NaCROP/)
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/msrk_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Multitask-Singularity-Regression-Kriging-for-Spatio-Temporal-Soil-NPK-Crop-Stress-Yield-Prediction/)
 
 </td>
 <td width="50%" valign="top">
 
-**[Zaria Crop ET and Irrigation DSS](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)**
+**[GIS-Based Livestock Slurry Suitability](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)**
 
-A modular Python pipeline with a Tkinter desktop GUI for reference/crop
-evapotranspiration, soil-water balance, irrigation scheduling, and full
-farm-report generation for five crops grown around Zaria, Nigeria.
+A multi-criteria GIS overlay combined with regression kriging and
+deep-learning suitability surfaces for livestock slurry application siting,
+case study in Tudela, Navarre, Spain.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/workflow_sketch.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/main/figures/fig10_model_comparison_maps.png" width="100%">
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Zaria-Crop-ET-and-Irrigation-DSS/)
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/slurry_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application/)
 
 </td>
 </tr>
+</table>
+
+---
+
+### Hydrology & Erosion Engineering
+
+*Modelling how water moves and erodes land, the physical processes of gully formation and sediment transport.*
+
+<table>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-**[Coupled Water Fluxes and Pore-Scale Dynamics under Joint Precision Irrigation and Evaporation-Control Mulching](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops)**
+**[Digital Twin for Gully Biocontrol](https://github.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp)**
 
-10,190 Daisy soil-plant-atmosphere simulations (10 soils, 17 experiments) mapping
-non-linear soil-atmosphere feedback loops between precision irrigation triggers,
-evaporation-control mulching, drainage, yield, and nitrate leaching. Three novel
-contributions: a soil-independent irrigation trigger law (root-zone depletion
-collapses suction-based triggers from 10 soils onto single curves), a closed
-water-balance account of where evaporation saved by mulching actually goes, and a
-regime map of when the dominant water-loss pathway switches from evaporation to
-drainage.
+Bayesian-grounded digital twin evaluating Morning Glory (*Ipomoea* spp.) as
+a gully-erosion biocontrol measure, validated against real field-sensor data.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/main/workflow_sketch.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/main/04_Figures/Figure_14_dashboard_3D_visualization.png" width="100%">
 
-[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/)
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/digital_twin_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Digital-Twin-for-the-Evaluation-of-Experimental-Gully-Biocontrol-Using-Morning-Glory-Ipomoea-spp/)
+
+</td>
+<td width="50%" valign="top">
+
+**[Hybrid CNN-BiLSTM-Attention for Sediment Transport](https://github.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System)**
+
+A from-scratch NumPy deep-learning framework for sediment-transport
+prediction in an agricultural gully system.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/main/figures/Figure_02_network_architecture.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/hybrid_cnn_workflow.png" width="100%">
+
+</details>
+
+[Interactive walkthrough →](https://halilunaziru73-creator.github.io/Hybrid-CNN-BiLSTM-Attention-Sediment-Transport-Agricultural-Gully-System/)
 
 </td>
 </tr>
