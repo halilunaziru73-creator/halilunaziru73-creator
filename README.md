@@ -53,7 +53,7 @@ drainage.
 Maize fertility zoning, vineyard pest monitoring, and grape ripening
 prediction across three linked Portuguese field practicals.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_16_maize_variable_rate_prescription.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_05_prescription_equations_maps.png" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
@@ -312,31 +312,6 @@ applied to corn parcels near Coimbra, Portugal.
 <tr>
 <td width="100%" valign="top">
 
-**[Integrated Dairy Processing Decision-Support Model](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)**
-
-Compares several prediction models, then uses linear programming and repeated
-random-scenario simulation to recommend which dairy product to make each day
-under uncertain milk quality and market prices.
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/quality_vs_profit.png" width="100%">
-
-<details>
-<summary>🔀 Methodology / Workflow</summary>
-
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/dairy_dss_workflow.png" width="100%">
-
-</details>
-
-[View repository →](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
 **[Zaria Crop ET and Irrigation DSS](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)**
 
 A modular Python pipeline with a Tkinter desktop GUI for reference/crop
@@ -373,6 +348,31 @@ case study in Tudela, Navarre, Spain.
 </details>
 
 [View repository →](https://github.com/halilunaziru73-creator/GIS-based_delineation_of_areas_suitable_for_livestock_slurry_application)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+**[Integrated Dairy Processing Decision-Support Model](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)**
+
+Compares several prediction models, then uses linear programming and repeated
+random-scenario simulation to recommend which dairy product to make each day
+under uncertain milk quality and market prices.
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability/main/outputs/figures/quality_vs_profit.png" width="100%">
+
+<details>
+<summary>🔀 Methodology / Workflow</summary>
+
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/workflow_diagrams/dairy_dss_workflow.png" width="100%">
+
+</details>
+
+[View repository →](https://github.com/halilunaziru73-creator/Integrated-Decision-Support-Model-for-Dairy-Processing-under-Milk-and-Market-Variability)
 
 </td>
 </tr>
