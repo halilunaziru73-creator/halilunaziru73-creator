@@ -36,7 +36,10 @@ drainage.
 
 *Irrigation trigger law widget (SWAFL explorer, scene N1): drag the trigger on the gauge and every soil shows its own suction trigger for the same root-zone depletion. Click the picture to open it live.*
 
+**Software created from this research (SWAFL).** The programs below are the software built from the 10,190 Daisy simulations, the 134 numbered equations and the three manuscripts of this repository. They compute and show the trigger law, the mulch water account and the regime map from this work, and they can be used without installing anything.
+
 **Download:** [SWAFL.exe for Windows](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/releases/latest/download/SWAFL.exe) (no installation) · [SWAFL_Desktop.zip (source)](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/raw/main/Software/SWAFL_Desktop.zip) · [all releases](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/releases)  
+**Run online (virtual version, nothing to install):** [SWAFL Desktop in the browser](https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Software/SWAFL_Desktop/app/index.html) · [SWAFL interactive explorer](https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Results/04_Interactive_Charts/10_SWAFL_Fused_Explorer.html)  
 **Manual:** [Download the SWAFL manual (PDF)](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/raw/main/Software/SWAFL_Desktop/docs/SWAFL_Manual.pdf)
 
 [View repository →](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops)
@@ -69,9 +72,9 @@ A modular Python pipeline with a Tkinter desktop GUI for reference/crop
 evapotranspiration, soil-water balance, irrigation scheduling, and full
 farm-report generation for five crops grown around Zaria, Nigeria.
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/outputs/figures/soil_profile_Sample_Farm_Owner.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS/main/outputs/figures/growth_simulation_Sample_Farm_Owner.png" width="100%">
 
-*Soil profile used for the water-balance simulation.*
+*Crop growth-stage simulation with per-stage water accounting.*
 
 [View repository →](https://github.com/halilunaziru73-creator/Zaria-Crop-ET-and-Irrigation-DSS)
 
