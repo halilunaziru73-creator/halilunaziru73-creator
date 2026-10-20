@@ -55,7 +55,7 @@ prediction across three linked Portuguese field practicals.
 
 <img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/original_submission/Figure_16_maize_variable_rate_prescription.jpg" width="100%">
 
-<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_05_prescription_equations_maps.png" width="100%">
+<img src="https://raw.githubusercontent.com/halilunaziru73-creator/Operationalizing-GIS-and-Machine-Learning-across-Contrasting-Cropping-Systems/main/figures/Figure_01_workflow.png" width="100%">
 
 <details>
 <summary>🔀 Methodology / Workflow</summary>
