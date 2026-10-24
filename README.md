@@ -28,9 +28,9 @@ water-balance account of where evaporation saved by mulching actually goes, and 
 regime map of when the dominant water-loss pathway switches from evaporation to
 drainage.
 
-<a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Results/04_Interactive_Charts/10_SWAFL_Fused_Explorer.html"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/trigger_law_widget.png" width="100%" alt="SWAFL explorer, Irrigation rule scene: the soil-independent root-zone depletion trigger law with a draggable trigger gauge and per-soil trigger suctions"></a>
+<a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Software/v1.1.0/SWAFL_Desktop/app/index.html?v=1.1.0"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/swafl_desktop_online_110.png" width="100%" alt="SWAFL Desktop 1.1.0 online: the drip irrigation design with the soil water of the days ahead, the dashboard, layers and properties"></a>
 
-*Irrigation trigger law widget (SWAFL explorer, scene N1): drag the trigger on the gauge and every soil shows its own suction trigger for the same root-zone depletion. Click the picture to open it live.*
+*SWAFL Desktop 1.1.0, the online version (nothing to install): the drip irrigation design with the soil water of the days ahead and its irrigation schedule (FAO-56, crop Kc × ET0 of the weather in use), the Dashboard, the Layers and the Properties. Click the picture to open it live.*
 
 **Software created from this research (SWAFL).** The programs below are the software built from the 10,190 Daisy simulations, the 134 numbered equations and the three manuscripts of this repository. They compute and show the trigger law, the mulch water account and the regime map from this work, and they can be used without installing anything.
 
