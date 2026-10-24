@@ -28,9 +28,9 @@ water-balance account of where evaporation saved by mulching actually goes, and 
 regime map of when the dominant water-loss pathway switches from evaporation to
 drainage.
 
-<a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Software/v1.1.0/SWAFL_Desktop/app/index.html?v=1.1.0"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/swafl_desktop_online_110.png" width="100%" alt="SWAFL Desktop 1.1.0 online: the drip irrigation design with the soil water of the days ahead, the dashboard, layers and properties"></a>
+<a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Software/v1.1.0/SWAFL_Desktop/app/index.html?v=1.1.0"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/swafl_desktop_online_110.png" width="100%" alt="SWAFL Desktop 1.1.0: the drip irrigation design with the soil water of the days ahead (DSS)"></a>
 
-*SWAFL Desktop 1.1.0, the online version (nothing to install): the drip irrigation design with the soil water of the days ahead and its irrigation schedule (FAO-56, crop Kc × ET0 of the weather in use), the Dashboard, the Layers and the Properties. Click the picture to open it live.*
+*SWAFL Desktop 1.1.0: the drip irrigation design with the soil water of the days ahead (DSS), every day from the working date coloured by phase, the root-zone water against field capacity and the trigger, the next irrigation and the wilting point without irrigation, beside the Dashboard and the Properties. Click the picture to open the online version.*
 
 <a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Software/v1.1.0/SWAFL_Desktop/app/index.html?v=1.1.0"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/swafl_field_on_the_map_110.png" width="100%" alt="SWAFL Desktop 1.1.0, Tools, Field on the map: a real field demarcated on the satellite image with its Sentinel-2 NDVI and management zones"></a>
 
