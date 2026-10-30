@@ -21,12 +21,9 @@ research code.
 
 10,190 Daisy soil-plant-atmosphere simulations (10 soils, 17 experiments) mapping
 non-linear soil-atmosphere feedback loops between precision irrigation triggers,
-evaporation-control mulching, drainage, yield, and nitrate leaching. Three novel
-contributions: a soil-independent irrigation trigger law (root-zone depletion
+evaporation-control mulching, drainage, yield, and nitrate leaching. Contributions: a soil-independent irrigation trigger law (root-zone depletion
 collapses suction-based triggers from 10 soils onto single curves), a closed
-water-balance account of where evaporation saved by mulching actually goes, and a
-regime map of when the dominant water-loss pathway switches from evaporation to
-drainage.
+water-balance account of where evaporation saved by mulching actually goes, a regime map of when the dominant water-loss pathway switches from evaporation to drainage, a measurable soil hydraulic memory for the recoverable share of an evaporation saving, a closure-first audit of the water balance, and the SWAFL software built on them.
 
 <a href="https://halilunaziru73-creator.github.io/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops/Software/v1.1.0/SWAFL_Desktop/app/index.html?v=1.1.0"><img src="https://raw.githubusercontent.com/halilunaziru73-creator/halilunaziru73-creator/main/assets/swafl_desktop_online_110.png" width="100%" alt="SWAFL Desktop 1.1.0: the drip irrigation design with the soil water of the days ahead (DSS)"></a>
 
