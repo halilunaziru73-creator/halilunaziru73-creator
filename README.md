@@ -19,7 +19,7 @@ research code.
 
 **[Coupled Water Fluxes and Pore-Scale Dynamics under Joint Precision Irrigation and Evaporation-Control Mulching](https://github.com/halilunaziru73-creator/Coupled-Water-Fluxes-Pore-Scale-Dynamics-Precision-Irrigation-Mulching-Feedback-Loops)**
 
-10,190 Daisy soil-plant-atmosphere simulations (10 soils, 17 experiments) mapping
+10,190 simulations of the [Daisy model](https://github.com/daisy-model) (University of Copenhagen), a soil-plant-atmosphere model, (10 soils, 17 experiments) mapping
 non-linear soil-atmosphere feedback loops between precision irrigation triggers,
 evaporation-control mulching, drainage, yield, and nitrate leaching. Contributions: a soil-independent irrigation trigger law (root-zone depletion
 collapses suction-based triggers from 10 soils onto single curves), a closed
