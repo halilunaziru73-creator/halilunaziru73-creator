@@ -308,3 +308,5 @@ under uncertain milk quality and market prices.
 `Python` · `GIS` · `Remote Sensing` · `Deep Learning` · `Computer Vision` ·
 `Geostatistics` · `Google Earth Engine` · `Sentinel-1/2` · `Precision Agriculture` ·
 `Bayesian Methods` · `Decision Support Systems`
+
+**Full list of languages, libraries, techniques and tools across all repositories:** [Software_Stack_All_Repositories.pdf](https://github.com/halilunaziru73-creator/halilunaziru73-creator/blob/main/Software_Stack/Software_Stack_All_Repositories.pdf)
